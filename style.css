@@ -10,7 +10,6 @@ body {
 .header {
     height: 80px;
     width: 100%;
-    text-align: center;
     color: #fff;
     display: flex;
     padding-left: 150px;
