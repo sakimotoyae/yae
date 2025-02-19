@@ -18,14 +18,14 @@ body {
 
 }
 .header-text {
-    font-size: 80px;
+    font-size: 100px;
     text-shadow: 1px 1px 2px black;
 }
 .nav {
     width: 100%;
 }
 .gloval-nav  {
-    font-size: 40px;
+    font-size: 80px;
     margin-left: 200px;
     justify-content: space-between;
     text-align: center;
@@ -46,7 +46,7 @@ body {
     padding-top: 300px;
     padding-left: 100px;
     color: #fff;
-    font-size: 110px;
+    font-size: 130px;
     letter-spacing: 5px;
 }
   .displayed{
