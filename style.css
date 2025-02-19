@@ -542,7 +542,7 @@ button[type="button"]{
 }
 .footer-text {
   width: 40%;
-  margin-right: 0;
+  margin: auto;
 }
 .footer-text ul {
   padding-top: 100px;
